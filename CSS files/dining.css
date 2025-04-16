@@ -34,17 +34,27 @@ p{
       padding: 1rem;
       max-width: 100%;
       margin: 1.5rem auto;
+      
 }
 
 #dinings section ul li{
     list-style: none;
     border-bottom: 1px solid #807d7d;
-    font-size: 1.1rem;
-    
+    font-size: 0.9rem;
+    overflow-wrap: break-word;
 
 }
 
 #dinings section ul {
     padding: 1rem;
-    margin: 1rem
+   
+}
+
+#dinings section p{
+    font-size: 0.9rem;
+}
+
+
+#dinings section h2{
+    overflow-wrap: break-word;
 }

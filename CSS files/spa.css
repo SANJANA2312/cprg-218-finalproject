@@ -75,3 +75,6 @@ p{
 }
 
 
+#spa section h3 {
+    overflow-wrap: break-word;
+}
